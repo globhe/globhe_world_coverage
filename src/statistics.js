@@ -2,7 +2,6 @@ import React from 'react';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import data from './data';
-import { mergeClasses } from '@material-ui/styles';
 
 const useStyles = makeStyles((theme) => ({
     root: {
