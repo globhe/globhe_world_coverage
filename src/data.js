@@ -6,6 +6,7 @@ const data = [
     { pilots: "1", ISO3: "DEU", country:"Germany" },
     { pilots: "1", ISO3: "IND", country:"India" },
     { pilots: "1", ISO3: "NLD", country:"Netherlands" },
+    { pilots: "1", ISO3: "NOR", country:"Norway" },
     { pilots: "1", ISO3: "PHL", country:"Philippines" },
     { pilots: "1", ISO3: "RWA", country:"Rwanda" },
     { pilots: "1", ISO3: "SEN", country:"Senegal" },
