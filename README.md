@@ -2,7 +2,7 @@
 
 ## Access
 
-To access this map, check out this link:
+To access this map, check out this link: https://globhe-country-coverage.netlify.app/
 
 ## Purpose
 
