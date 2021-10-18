@@ -1,6 +1,7 @@
 const data = [
     { pilots: "1", ISO3: "CHN", country:"China" },
     { pilots: "1", ISO3: "DEN", country:"Egypt" },
+    { pilots: "1", ISO3: "FIN", country:"Finland" },
     { pilots: "1", ISO3: "FRA", country:"France" },
     { pilots: "1", ISO3: "GMB", country:"Gambia" },
     { pilots: "1", ISO3: "IND", country:"India" },
@@ -11,6 +12,7 @@ const data = [
     { pilots: "1", ISO3: "NGA", country:"Nigeria" },   
     { pilots: "1", ISO3: "NOR", country:"Norway" },      
     { pilots: "1", ISO3: "ZAF", country:"South Africa" },  
+    { pilots: "1", ISO3: "ESP", country:"Spain" },
     { pilots: "1", ISO3: "SWE", country:"Sweden" }, 
     { pilots: "1", ISO3: "CHE", country:"Switzerland" },
     { pilots: "1", ISO3: "ARE", country:"UAE" },
