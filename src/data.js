@@ -1,4 +1,4 @@
-cconst data = [
+const data = [
     { pilots: "1", ISO3: "BEN", country:"Benin" },  
     { pilots: "1", ISO3: "LSO", country:"Lesotho" }, 
     { pilots: "1", ISO3: "MWI", country:"Malawi" }, 
